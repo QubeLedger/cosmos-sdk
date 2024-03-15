@@ -1,7 +1,7 @@
 package types
 
 // staking constants
-const (
+var (
 
 	// default bond denomination
 	DefaultBondDenom = "stake"
